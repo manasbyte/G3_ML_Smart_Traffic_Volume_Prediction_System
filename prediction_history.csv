@@ -1,7 +1,0 @@
-Timestamp,Road,Hour,Day,Weather,Is_Holiday,Temperature_C,Predicted_Traffic,Traffic_Level
-2026-10-27T18:17:51,Road A,10,Sunday,Clear,Yes,24,315,LOW
-2026-10-27T18:18:00,Road A,10,Sunday,Rainy,Yes,24,269,LOW
-2026-10-27T18:18:05,Road A,10,Sunday,Foggy,Yes,24,260,LOW
-2026-10-27T18:18:18,Road A,16,Friday,Foggy,Yes,24,588,MODERATE
-2026-10-27T18:18:24,Road A,16,Friday,Clear,Yes,24,708,MODERATE
-2026-10-27T18:18:29,Road A,16,Friday,Rainy,Yes,24,617,MODERATE
